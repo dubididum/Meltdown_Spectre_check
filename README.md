@@ -6,3 +6,4 @@ You can simply change it too nagios plugin or something like that.
 For myself i using it in check_mk.
 
 The both module files have to be in the same directory as the ps1 script.
+I use the two modules provided by microsoft for my powershell script.
